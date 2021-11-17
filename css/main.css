@@ -853,6 +853,11 @@ img {
   margin-right: auto;
 }
 
+.section {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+
 .visually-hidden {
   position: absolute;
   white-space: nowrap;
