@@ -1,8 +1,8 @@
-.section-function {
+.function {
   padding-top: 47px;
   padding-bottom: 94px;
 }
-.function-header {
+.function__header {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.2;
@@ -11,15 +11,15 @@
   color: var(--title-text-color);
   margin-bottom: 50px;
 }
-.functions-list {
+.functions__list {
   display: flex;
   justify-content: space-between;
 }
-.functions-wrap {
+.functions__wrap {
   position: relative;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
-.functions-text {
+.functions__text {
   font-weight: 700;
   font-size: 13px;
   line-height: 1.14;
